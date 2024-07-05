@@ -1,0 +1,9 @@
+body{
+    background: url(../public/img/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+a{
+    display: inline-block;
+}
